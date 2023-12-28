@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="watch.Fossil_Test">
+        <methods>
+          <include name="game"/>
+        </methods>
+      </class> <!-- watch.Fossil_Test -->
+      <class name="watch.JokerAndWitch_Test">
+        <methods>
+          <include name="game"/>
+        </methods>
+      </class> <!-- watch.JokerAndWitch_Test -->
+      <class name="watch.FireBoltt_Test">
+        <methods>
+          <include name="game"/>
+        </methods>
+      </class> <!-- watch.FireBoltt_Test -->
+      <class name="watch.Rado_Test">
+        <methods>
+          <include name="game"/>
+        </methods>
+      </class> <!-- watch.Rado_Test -->
+      <class name="watch.Helios_Test">
+        <methods>
+          <include name="game"/>
+        </methods>
+      </class> <!-- watch.Helios_Test -->
+      <class name="watch.Casio_Test">
+        <methods>
+          <include name="game"/>
+        </methods>
+      </class> <!-- watch.Casio_Test -->
+      <class name="watch.Boat_Test">
+        <methods>
+          <include name="game"/>
+        </methods>
+      </class> <!-- watch.Boat_Test -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

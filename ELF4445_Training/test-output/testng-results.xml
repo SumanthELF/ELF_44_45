@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-28T14:54:48 IST" name="Default suite" finished-at="2023-12-28T14:54:53 IST" duration-ms="4859">
+    <groups>
+    </groups>
+    <test started-at="2023-12-28T14:54:48 IST" name="Default test" finished-at="2023-12-28T14:54:53 IST" duration-ms="4859">
+      <class name="cross.Script2_Test">
+        <test-method signature="login()[pri:0, instance:cross.Script2_Test@543295b0]" started-at="2023-12-28T14:54:48 IST" name="login" finished-at="2023-12-28T14:54:53 IST" duration-ms="4820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- cross.Script2_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
