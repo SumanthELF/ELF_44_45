@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 
 public class Script2_Test {
 
-	@Test
+	@Test(priority=1)
 	public void login() {
 		WebDriver driver = null;
 		String browserName = System.getProperty("bname");
